@@ -3,7 +3,7 @@ The aim of this project is to perform sentiment analysis on the given world news
 
 Files:
   1. data downloaded in data folder as Eluvio_DS_Challenge.csv
-  2. sentiment_analysis_newspare.ipynb
+  2. sentiment_analysis_newspaper.ipynb
   
 Requirements:
   1. python 3.6.6 and cuda 10.1
