@@ -1,4 +1,4 @@
-# sentiment_analysis
+# Sentiment Analysis of Newspaper Headlines
 The aim of this project is to perform sentiment analysis on the given world news headlines. This notebook was run on a HPC.
 
 Files:
